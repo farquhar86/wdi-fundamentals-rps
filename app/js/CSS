@@ -1,7 +1,0 @@
-CSS
-
-Center everything:
-margin: 0 auto;
-
-To make a div a circle:
-Border-radius: 20px 20px 20px 20px;
